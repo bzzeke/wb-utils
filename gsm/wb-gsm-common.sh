@@ -1,7 +1,7 @@
 #!/bin/bash
 . /etc/wb_env.sh
 
-PORT=/dev/ttyAPP0
+PORT=/dev/ttyGSM
 DEFAULT_BAUDRATE=115200
 
 PWRKEY_GPIO=/sys/class/gpio/gpio${WB_GPIO_GSM_PWRKEY}
