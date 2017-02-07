@@ -1,3 +1,9 @@
+wb-utils (1.70+beta1) stable; urgency=medium
+
+  * wb6 support
+
+ -- Evgeny Boger <boger@contactless.ru>  Mon, 06 Feb 2017 23:48:24 +0300
+
 wb-utils (1.69.3) stable; urgency=medium
 
   * use /dev/ttyGSM symlink
